@@ -6,7 +6,7 @@ ESC.
 ## Driving the fan
 
 The fan is being controlled from a standard PC fan controller card. This
-generates and output in the range 0-5V, which would normally we used to power
+generates and output in the range 0-12V, which would normally we used to power
 a simple analogue fan (where lower voltage goes slower) within the computer.
 
 However, our fan (taken from a Honda Accord) is driven by an external Turnigy
